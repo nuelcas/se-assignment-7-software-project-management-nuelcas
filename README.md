@@ -45,7 +45,9 @@ Questions:
 
    - Compare and contrast at least two software project management methodologies (e.g., Agile, Waterfall, Scrum, Kanban). What are the advantages and disadvantages of each?
 
-   Answer:ey components of project
+   Answer:
+
+   Agile vs Waterfall
 
    Agile in software project management is a flexible approach where teams work in short cycles called sprints to continuously deliver small, functional pieces of software. It emphasizes collaboration, adaptability to change, and frequent feedback from customers.
 
